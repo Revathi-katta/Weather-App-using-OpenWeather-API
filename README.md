@@ -5,7 +5,7 @@ This project demonstrates API integration, error handling, and modern React deve
 
 ---
 
-[App Link](https://weather-app-using-open-weather-paamw7cn8.vercel.app/)
+## [App Link](https://weather-app-using-open-weather-paamw7cn8.vercel.app/)
 
 ## 🚀 Features
 - 🌍 Search weather by city name
