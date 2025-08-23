@@ -7,6 +7,7 @@ This project demonstrates API integration, error handling, and modern React deve
 
 ## [App Link](https://weather-app-using-open-weather-paamw7cn8.vercel.app/)
 
+
 ## 🚀 Features
 - 🌍 Search weather by city name
 - 📍 Displays temperature, humidity, and weather conditions
@@ -86,7 +87,9 @@ weather-app/
 **Revathi Katta**  
 B.Tech @ IIT Gandhinagar
 [GitHub](https://github.com/Revathi-katta)
-
+[Skillected Certificate](<div align="center">
+  <img src="screenshots\Screenshot 2025-08-20 032800.png" alt="Contributor"/>
+</div>)
 
 
 # React + Vite
