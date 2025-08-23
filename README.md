@@ -87,9 +87,12 @@ weather-app/
 **Revathi Katta**  
 B.Tech @ IIT Gandhinagar
 [GitHub](https://github.com/Revathi-katta)
-[Skillected Certificate](<div align="center"> 
-  <img src="screenshots/Certificate.jpg" alt="Contributor"/>
-</div>)
+<div align="center">
+  <a href="screenshots/Certificate.jpg">
+    <img src="screenshots/Certificate.jpg" alt="SkillEcted Certificate" width="400"/>
+  </a>
+</div>
+
 
 
 # React + Vite
