@@ -88,7 +88,7 @@ weather-app/
 B.Tech @ IIT Gandhinagar
 [GitHub](https://github.com/Revathi-katta)
 [Skillected Certificate](<div align="center">
-  <img src="screenshots\Screenshot 2025-08-20 032800.png" alt="Contributor"/>
+  <img src="Certificate.png" alt="Contributor"/>
 </div>)
 
 
